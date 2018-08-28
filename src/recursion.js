@@ -95,7 +95,7 @@ if(exp === 0){
 };
 
 // 8. Determine if a number is a power of two.
-// powerOfTwo(1); // true
+// powerOfTwo(1); // tru
 // powerOfTwo(16); // true
 // powerOfTwo(10); // false
 var powerOfTwo = function(n) {
